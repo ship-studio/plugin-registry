@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "vercel",
+      "name": "Vercel",
+      "description": "Deploy to Vercel directly from Ship Studio. Adds a toolbar button for linking projects, viewing deployment URLs, and managing your Vercel connection.",
+      "repo": "https://github.com/ship-studio/plugin-vercel",
+      "author": "Ship Studio",
+      "category": "deployment",
+      "icon": "vercel"
+    }
+  ]
+}

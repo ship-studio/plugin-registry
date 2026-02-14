@@ -18,6 +18,15 @@
       "author": "Ship Studio",
       "category": "deployment",
       "icon": "cloudflare"
+    },
+    {
+      "id": "google-analytics",
+      "name": "Google Analytics",
+      "description": "Inject GA4 tracking code and view analytics data directly in Ship Studio.",
+      "repo": "https://github.com/ship-studio/plugin-ga",
+      "author": "Ship Studio",
+      "category": "analytics",
+      "icon": "google-analytics"
     }
   ]
 }

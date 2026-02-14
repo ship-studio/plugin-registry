@@ -9,6 +9,15 @@
       "author": "Ship Studio",
       "category": "deployment",
       "icon": "vercel"
+    },
+    {
+      "id": "cloudflare",
+      "name": "Cloudflare Pages",
+      "description": "Deploy to Cloudflare Pages with one click using the Wrangler CLI.",
+      "repo": "https://github.com/ship-studio/plugin-cloudflare",
+      "author": "Ship Studio",
+      "category": "deployment",
+      "icon": "cloudflare"
     }
   ]
 }

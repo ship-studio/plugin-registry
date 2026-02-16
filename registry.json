@@ -27,6 +27,15 @@
       "author": "Ship Studio",
       "category": "analytics",
       "icon": "google-analytics"
+    },
+    {
+      "id": "sanity-cms",
+      "name": "Sanity CMS",
+      "description": "Sanity Studio integration with native webview support. Detects Sanity CMS in projects and provides a full-screen Sanity Studio modal.",
+      "repo": "https://github.com/ship-studio/plugin-sanity",
+      "author": "Ship Studio",
+      "category": "cms",
+      "icon": "sanity"
     }
   ]
 }

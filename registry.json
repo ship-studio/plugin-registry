@@ -11,6 +11,15 @@
       "icon": "vercel"
     },
     {
+      "id": "sanity-cms",
+      "name": "Sanity CMS",
+      "description": "Sanity Studio integration with native webview support. Detects Sanity CMS in projects and provides a full-screen Sanity Studio modal.",
+      "repo": "https://github.com/ship-studio/plugin-sanity",
+      "author": "Ship Studio",
+      "category": "cms",
+      "icon": "sanity"
+    },
+    {
       "id": "cloudflare",
       "name": "Cloudflare Pages",
       "description": "Deploy to Cloudflare Pages with one click using the Wrangler CLI.",
@@ -29,15 +38,6 @@
       "icon": "google-analytics"
     },
     {
-      "id": "sanity-cms",
-      "name": "Sanity CMS",
-      "description": "Sanity Studio integration with native webview support. Detects Sanity CMS in projects and provides a full-screen Sanity Studio modal.",
-      "repo": "https://github.com/ship-studio/plugin-sanity",
-      "author": "Ship Studio",
-      "category": "cms",
-      "icon": "sanity"
-    },
-    {
       "id": "memberstack",
       "name": "Memberstack",
       "description": "Connect and manage Memberstack MCP server for membership management, authentication, and subscription plans.",
@@ -45,6 +45,15 @@
       "author": "Memberstack",
       "category": "integration",
       "icon": "memberstack"
+    },
+    {
+      "id": "dependency-checker",
+      "name": "Dependency Checker",
+      "description": "Detect outdated dependencies and update them with one click.",
+      "repo": "https://github.com/ship-studio/plugin-dependency-checker",
+      "author": "Ship Studio",
+      "category": "tools",
+      "icon": "dependency-checker"
     }
   ]
 }

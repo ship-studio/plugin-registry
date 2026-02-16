@@ -36,6 +36,15 @@
       "author": "Ship Studio",
       "category": "cms",
       "icon": "sanity"
+    },
+    {
+      "id": "memberstack",
+      "name": "Memberstack",
+      "description": "Connect and manage Memberstack MCP server for membership management, authentication, and subscription plans.",
+      "repo": "https://github.com/ship-studio/plugin-memberstack",
+      "author": "Memberstack",
+      "category": "integration",
+      "icon": "memberstack"
     }
   ]
 }

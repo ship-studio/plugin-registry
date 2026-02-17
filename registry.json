@@ -54,6 +54,15 @@
       "author": "Ship Studio",
       "category": "tools",
       "icon": "dependency-checker"
+    },
+    {
+      "id": "brand-guidelines",
+      "name": "Brand Guidelines",
+      "description": "Define brand colors, fonts, voice & assets and sync them into CLAUDE.md or AGENTS.md.",
+      "repo": "https://github.com/ship-studio/plugin-brand-guidelines",
+      "author": "Ship Studio",
+      "category": "design",
+      "icon": "brand-guidelines"
     }
   ]
 }

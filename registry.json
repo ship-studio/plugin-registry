@@ -63,6 +63,15 @@
       "author": "Ship Studio",
       "category": "design",
       "icon": "brand-guidelines"
+    },
+    {
+      "id": "ralph",
+      "name": "Ralph",
+      "description": "Autonomous coding loop manager. Ralph Wiggum runs Claude Code in a loop, automatically accepting prompts and managing long-running coding sessions.",
+      "repo": "https://github.com/ship-studio/plugin-ralph",
+      "author": "Ship Studio",
+      "category": "tools",
+      "icon": "ralph"
     }
   ]
 }

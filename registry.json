@@ -67,11 +67,20 @@
     {
       "id": "ralph",
       "name": "Ralph Wiggum",
-      "description": "Autonomous coding loop manager. Ralph Wiggum runs Claude Code in a loop, automatically accepting prompts and managing long-running coding sessions.",
+      "description": "Autonomous coding loop manager. Ralph Wiggum runs Claude Code in a loop, automatically accepting prompts and managing long-running coding sessions. Powered by ralph-claude-code (https://github.com/frankbria/ralph-claude-code).",
       "repo": "https://github.com/ship-studio/plugin-ralph",
       "author": "Ship Studio",
       "category": "tools",
       "icon": "ralph"
+    },
+    {
+      "id": "netlify",
+      "name": "Netlify",
+      "description": "Deploy to Netlify directly from Ship Studio. Adds a toolbar button for linking projects, viewing deployment URLs, and managing your Netlify connection.",
+      "repo": "https://github.com/ship-studio/plugin-netlify",
+      "author": "Ship Studio",
+      "category": "deployment",
+      "icon": "netlify"
     }
   ]
 }

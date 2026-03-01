@@ -90,6 +90,15 @@
       "author": "@ryoppippi",
       "category": "analytics",
       "icon": "ccusage"
+    },
+    {
+      "id": "gsd",
+      "name": "GSD",
+      "description": "Visual dashboard for GSD, the spec-driven development system for Claude Code. Install GSD, view project roadmaps with phase status, and manage your .planning directory. Powered by Get Shit Done by TACHES (https://github.com/gsd-build/get-shit-done).",
+      "repo": "https://github.com/ship-studio/plugin-gsd",
+      "author": "Ship Studio",
+      "category": "tools",
+      "icon": "gsd"
     }
   ]
 }

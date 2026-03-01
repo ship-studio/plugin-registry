@@ -81,6 +81,15 @@
       "author": "Ship Studio",
       "category": "deployment",
       "icon": "netlify"
+    },
+    {
+      "id": "ccusage",
+      "name": "CC Usage",
+      "description": "Track Claude Code spending with daily, weekly, and monthly breakdowns by model. Built by @ryoppippi using ccusage (https://github.com/ryoppippi/ccusage).",
+      "repo": "https://github.com/ship-studio/plugin-ccusage",
+      "author": "@ryoppippi",
+      "category": "analytics",
+      "icon": "ccusage"
     }
   ]
 }

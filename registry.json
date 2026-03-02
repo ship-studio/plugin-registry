@@ -99,6 +99,15 @@
       "author": "Ship Studio",
       "category": "tools",
       "icon": "gsd"
+    },
+    {
+      "id": "figma",
+      "name": "Figma",
+      "description": "Extract design data from Figma and generate structured markdown briefs for Claude Code.",
+      "repo": "https://github.com/ship-studio/plugin-figma",
+      "author": "Ship Studio",
+      "category": "design",
+      "icon": "figma"
     }
   ]
 }

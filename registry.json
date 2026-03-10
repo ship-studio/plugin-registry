@@ -108,6 +108,15 @@
       "author": "Ship Studio",
       "category": "design",
       "icon": "figma"
+    },
+    {
+      "id": "webflow-cloud",
+      "name": "Webflow Cloud",
+      "description": "Connect and deploy to Webflow Cloud from Ship Studio. Configure your local project for Webflow Cloud deployments.",
+      "repo": "https://github.com/ship-studio/plugin-webflow-cloud",
+      "author": "Ship Studio",
+      "category": "deployment",
+      "icon": "webflow-cloud"
     }
   ]
 }

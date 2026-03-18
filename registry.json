@@ -117,6 +117,15 @@
       "author": "Ship Studio",
       "category": "deployment",
       "icon": "webflow-cloud"
+    },
+    {
+      "id": "webflow-to-code",
+      "name": "Webflow to Code",
+      "description": "Convert Webflow exports into structured coding briefs for Claude Code.",
+      "repo": "https://github.com/ship-studio/plugin-webflow-to-code",
+      "author": "Ship Studio",
+      "category": "design",
+      "icon": "webflow-to-code"
     }
   ]
 }

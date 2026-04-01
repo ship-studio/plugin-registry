@@ -135,6 +135,15 @@
       "author": "Ship Studio",
       "category": "design",
       "icon": "weweb-to-code"
+    },
+    {
+      "id": "cstar-support-platform",
+      "name": "cStar Support Platform",
+      "description": "Add cStar customer support to your project. AI context injection for Claude Code, SDK setup, chat widget and public library scaffolding, CLI tools, and developer docs.",
+      "repo": "https://github.com/ship-studio/plugin-cstar-support-platform",
+      "author": "cStar",
+      "category": "integration",
+      "icon": "cstar-support-platform"
     }
   ]
 }

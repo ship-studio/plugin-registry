@@ -74,24 +74,6 @@
       "icon": "netlify"
     },
     {
-      "id": "ccusage",
-      "name": "CC Usage",
-      "description": "Track Claude Code spending with daily, weekly, and monthly breakdowns by model. Built by @ryoppippi using ccusage (https://github.com/ryoppippi/ccusage).",
-      "repo": "https://github.com/ship-studio/plugin-ccusage",
-      "author": "@ryoppippi",
-      "category": "analytics",
-      "icon": "ccusage"
-    },
-    {
-      "id": "gsd",
-      "name": "GSD",
-      "description": "Visual dashboard for GSD, the spec-driven development system for Claude Code. Install GSD, view project roadmaps with phase status, and manage your .planning directory. Powered by Get Shit Done by TACHES (https://github.com/gsd-build/get-shit-done).",
-      "repo": "https://github.com/ship-studio/plugin-gsd",
-      "author": "Ship Studio",
-      "category": "tools",
-      "icon": "gsd"
-    },
-    {
       "id": "figma",
       "name": "Figma",
       "description": "Extract design data from Figma and generate structured markdown briefs for Claude Code.",
